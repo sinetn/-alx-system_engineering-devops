@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .;
-git commit -m "Magic School";
+git commit -m "Symbolic link permission";
 git push origin main
 
