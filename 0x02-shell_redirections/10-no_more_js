@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -IR --preserve-root[=all] ./*.js
+find . -name "*.js" -delete
