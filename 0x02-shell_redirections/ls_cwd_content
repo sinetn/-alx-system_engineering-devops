@@ -1,0 +1,15 @@
+total 19
+drwxr-xr-x 1 Sine 197121  0 Aug 23 11:44 .
+drwxr-xr-x 1 Sine 197121  0 Aug 23 10:11 ..
+-rwxr-xr-x 1 Sine 197121 32 Aug 23 10:30 0-hello_world
+-rwxr-xr-x 1 Sine 197121 29 Aug 23 10:46 1-confused_smiley
+-rwxr-xr-x 1 Sine 197121 29 Aug 23 10:48 2-hellofile
+-rwxr-xr-x 1 Sine 197121 42 Aug 23 10:50 3-twofiles
+-rwxr-xr-x 1 Sine 197121 29 Aug 23 10:53 4-lastlines
+-rwxr-xr-x 1 Sine 197121 29 Aug 23 10:55 5-firstlines
+-rwxr-xr-x 1 Sine 197121 38 Aug 23 11:04 6-third_line
+-rwxr-xr-x 1 Sine 197121 36 Aug 23 11:44 8-cwd_state
+-rwxr-xr-x 1 Sine 197121 78 Aug 23 10:46 DO_ALL_AT_ONCE
+-rw-r--r-- 1 Sine 197121 20 Aug 23 10:41 README.md
+-rw-r--r-- 1 Sine 197121 13 Aug 23 11:36 hey
+-rw-r--r-- 1 Sine 197121  0 Aug 23 11:44 ls_cwd_content
