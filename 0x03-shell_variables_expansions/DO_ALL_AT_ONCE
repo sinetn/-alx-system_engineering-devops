@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .;
-git commit -m "Path action";
+git commit -m "Paths";
 git push origin main
 
