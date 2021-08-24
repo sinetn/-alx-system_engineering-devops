@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .;
-git commit -m "Hello User";
+git commit -m "Path action";
 git push origin main
 
